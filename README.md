@@ -18,13 +18,13 @@ Sending invitations to events management app
 - Logged in user cand sent invitations to a list of users, to a scpecific event
 
 ## Technologies ##
-Java 11
-Maven
-Spring Boot with Spring Web (REST Services), Spring Data, Spring AOP, Spring Security
-PostgreSQL
-Junit 5
-Mockito
-Postman
+- Java 11
+- Maven
+- Spring Boot with Spring Web (REST Services), Spring Data, Spring AOP, Spring Security
+- PostgreSQL
+- Junit 5
+- Mockito
+- Postman
 
 ## Run locally ##
 Run the application from IDE, by default it will run on port 8080 with Tomcat
